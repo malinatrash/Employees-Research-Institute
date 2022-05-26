@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/11 20:11:49.000.304,=\\Mac\iCloud\develop\C++\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/11 20:11:50.000.246,=\\Mac\iCloud\develop\C++\Unit1.cpp</Transaction>
+    <Transaction>2022/05/11 20:25:20.000.658,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\main.h=\\Mac\iCloud\develop\C++\Unit1.h</Transaction>
+    <Transaction>2022/05/11 20:25:20.000.658,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\main.cpp=\\Mac\iCloud\develop\C++\Unit1.cpp</Transaction>
+    <Transaction>2022/05/11 20:25:20.000.658,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\main.dfm=\\Mac\iCloud\develop\C++\Unit1.dfm</Transaction>
+    <Transaction>2022/05/11 20:25:39.000.167,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\CourseWorkProject.h=\\Mac\iCloud\develop\C++\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/11 20:26:06.000.536,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Project.cbproj=\\Mac\iCloud\develop\C++\Project1.cbproj</Transaction>
+    <Transaction>2022/05/11 22:22:15.000.934,=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit2.cpp</Transaction>
+    <Transaction>2022/05/11 22:22:35.000.046,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\main2.cpp=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit2.cpp</Transaction>
+    <Transaction>2022/05/11 22:22:35.000.046,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\main2.h=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit2.h</Transaction>
+    <Transaction>2022/05/11 22:22:35.000.046,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\main2.dfm=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit2.dfm</Transaction>
+    <Transaction>2022/05/11 22:23:57.000.195,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\main2.cpp=</Transaction>
+    <Transaction>2022/05/11 22:34:12.000.557,=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit2.cpp</Transaction>
+    <Transaction>2022/05/11 22:36:27.000.087,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit2.dfm=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\AddingEmployee.dfm</Transaction>
+    <Transaction>2022/05/11 22:36:27.000.087,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit2.h=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\AddingEmployee.h</Transaction>
+    <Transaction>2022/05/11 22:36:27.000.087,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit2.cpp=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\AddingEmployee.cpp</Transaction>
+    <Transaction>2022/05/11 23:47:06.000.960,=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp</Transaction>
+    <Transaction>2022/05/11 23:50:23.000.791,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\DataBank.cpp</Transaction>
+    <Transaction>2022/05/11 23:50:23.000.791,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.h=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\DataBank.h</Transaction>
+    <Transaction>2022/05/11 23:59:30.000.454,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\DataBank.cpp=</Transaction>
+    <Transaction>2022/05/16 15:35:41.000.569,=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp</Transaction>
+    <Transaction>2022/05/16 15:37:43.000.574,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\EmployeeList.cpp</Transaction>
+    <Transaction>2022/05/16 15:37:43.000.574,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.dfm=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\EmployeeList.dfm</Transaction>
+    <Transaction>2022/05/16 15:37:43.000.574,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.h=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\EmployeeList.h</Transaction>
+    <Transaction>2022/05/16 18:06:31.000.816,=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp</Transaction>
+    <Transaction>2022/05/16 18:07:02.000.465,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\NumberEmployee.h=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.h</Transaction>
+    <Transaction>2022/05/16 18:07:02.000.465,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\NumberEmployee.dfm=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.dfm</Transaction>
+    <Transaction>2022/05/16 18:07:02.000.465,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\NumberEmployee.cpp=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp</Transaction>
+    <Transaction>2022/05/17 12:12:21.000.570,=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp</Transaction>
+    <Transaction>2022/05/17 12:13:49.000.840,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.dfm=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\YouSure.dfm</Transaction>
+    <Transaction>2022/05/17 12:13:49.000.840,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\YouSure.cpp</Transaction>
+    <Transaction>2022/05/17 12:13:49.000.840,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.h=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\YouSure.h</Transaction>
+    <Transaction>2022/05/17 15:23:42.000.442,=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp</Transaction>
+    <Transaction>2022/05/17 15:24:04.000.506,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.dfm=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\ChooseFileName.dfm</Transaction>
+    <Transaction>2022/05/17 15:24:04.000.506,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.h=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\ChooseFileName.h</Transaction>
+    <Transaction>2022/05/17 15:24:04.000.506,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\ChooseFileName.cpp</Transaction>
+    <Transaction>2022/05/17 15:37:23.000.634,=\\Mac\Home\Desktop\SelectAction.cpp</Transaction>
+    <Transaction>2022/05/17 15:37:23.000.655,=\\Mac\Home\Desktop\SelectAction.h</Transaction>
+    <Transaction>2022/05/17 15:37:23.000.655,=\\Mac\Home\Desktop\SelectAction.dfm</Transaction>
+    <Transaction>2022/05/17 15:38:20.000.494,\\Mac\Home\Desktop\SelectAction.dfm=</Transaction>
+    <Transaction>2022/05/17 15:38:20.000.494,\\Mac\Home\Desktop\SelectAction.h=</Transaction>
+    <Transaction>2022/05/17 15:38:20.000.483,\\Mac\Home\Desktop\SelectAction.cpp=</Transaction>
+    <Transaction>2022/05/17 15:40:48.000.050,=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp</Transaction>
+    <Transaction>2022/05/17 15:41:00.000.526,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.h=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\SelectAction.h</Transaction>
+    <Transaction>2022/05/17 15:41:00.000.526,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.cpp=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\SelectAction.cpp</Transaction>
+    <Transaction>2022/05/17 15:41:00.000.526,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\Unit1.dfm=\\Mac\iCloud\develop\C++\Course Paper\CourseWork\SelectAction.dfm</Transaction>
+    <Transaction>2022/05/17 15:56:13.000.867,\\Mac\iCloud\develop\C++\Course Paper\CourseWork\ChooseFileName.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AddingEmployee.cpp"/>
+    <File Path="CourseWorkProject.h"/>
+    <File Path="EmployeeList.cpp"/>
+    <File Path="main.cpp"/>
+    <File Path="NumberEmployee.cpp"/>
+    <File Path="Project.cpp"/>
+    <File Path="YouSure.cpp"/>
+    <File Path="SelectAction.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>

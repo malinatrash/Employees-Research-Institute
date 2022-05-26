@@ -1,0 +1,7 @@
+Title: Employees of the Research Institute.
+
+Current version: 1
+Last modified: 26/05/2022.
+
+Developer: Pavel Alekseevich Naumov ISTb-21-1
+GitHub: https://github.com/malinatrash

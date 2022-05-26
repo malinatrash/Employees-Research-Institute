@@ -1,0 +1,18 @@
+User's Guide! 
+
+Welcome to the program "Employees of the Research Institute" 
+We offer you a list of functions for the comfortable use of the application. 
+
+1. At the very beginning of the work, you have the opportunity to start writing files to temporary storage or the possibility of obtaining data from a prepared file. To add an employee, enter a complete list of template information. It is worth noting that the academic degree item must be filled in in numerical format:
+"1" - Bachelor
+"2" - Master
+"3" - Candidate of Sciences
+"4" - Doctor of Sciences 
+
+2. Later you can view the list of employees in a tabular view. To the right of the table there are buttons for sorting the table by the specified fields, and the ability to view the specific information that the task requires.
+
+3. The third menu item offers you a job with a concrete worker. To begin with, you need to contact him by his unique identifier. It is its ordinal number in the main table of employees. Using this number, you can view, change or delete the data of the selected employee.  If you enter the number incorrectly, a pop-up window will appear that will protect you from erroneous actions.
+
+4. At the end of working with the application, you can save the data to the file you selected in the dialog box, or you can download the data from the file again and continue using the program. 
+
+Good luck!
